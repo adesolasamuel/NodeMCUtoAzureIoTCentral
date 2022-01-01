@@ -3,6 +3,8 @@ This is a detailed description of how to send data from NodeMCU or ESP8266 to Mi
 
 How to send data to Microsoft Azure IoT central Using NodeMCU
 
+Link to step by step Video: https://youtu.be/X1aBKd9nJs4 
+
 IoT being an integral part of cloud computing, several cloud vendors make IoT part of the services they render. Also, with the emergence of IoT, there are different platform that makes IoT implementation available even to individuals. In this tutorial, I will be taking you through steps in sending data from NodeMCU, an IoT development platform to Azure IoT Central.
 To ensure all necessary things are in place, you will have to set up your computer to communicate with NodeMCU or ESP8266 before you can follow along this tutorial.
 In this tutorial, we will be using DHT 11 sensor to send Temperature and Humidity data to Azure IoT Central. 
@@ -64,6 +66,10 @@ Step 7: Writing the Code: I made the link to the code available. Download the co
 Step 8: Once you are done setting up the code and Azure IoT central, upload the code to the NodeMCU and with a little bit of luck, you will see your Temperature and Humidity displayed in IoT Central. You can also monitor the connection via the Serial Monitor.
 
 ![image](https://user-images.githubusercontent.com/55460620/147842124-0ba24d10-5833-479e-a59f-42618ee4a5a0.png)
+
+
+link to Detailed Video guide:
+https://youtu.be/X1aBKd9nJs4
 
 
  
